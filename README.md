@@ -30,3 +30,10 @@
 26  |                       |                    |                    | grapholytic
 27  |                       |                    |                    | Weaver
 
+## Ref
+* https://www.predictiveanalyticstoday.com/top-sql-key-value-store-databases/
+* https://www.predictiveanalyticstoday.com/top-nosql-document-databases/
+* https://www.predictiveanalyticstoday.com/top-wide-columnar-store-databases/
+* https://www.predictiveanalyticstoday.com/top-graph-databases/
+
+
